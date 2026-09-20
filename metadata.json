@@ -1,0 +1,6 @@
+{
+  "name": "Toutou Chic",
+  "description": "Salon de toilettage canin boutique à Lyon. Lavage, tonte & coupe, brossage et soins adaptés à la race au 28 Rue de la République.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
